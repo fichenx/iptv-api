@@ -21,3 +21,9 @@ https://m3u.ibert.me/txt/o_cn.txt
 https://raw.githubusercontent.com/Moexin/IPTV/refs/heads/Files/IPTV.m3u
 https://raw.githubusercontent.com/fichenx/IPTV/refs/heads/main/radio_.txt
 https://raw.githubusercontent.com/fichenx/IPTV/refs/heads/main/chunwan.txt
+
+[WHITELIST]
+# 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
+# This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
+https://raw.githubusercontent.com/fichenx/IPTV/refs/heads/main/radio_.txt
+https://raw.githubusercontent.com/fichenx/IPTV/refs/heads/main/chunwan.txt
